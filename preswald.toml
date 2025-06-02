@@ -6,9 +6,9 @@ slug = "{project_slug}"
 entrypoint = "hello.py"
 
 [branding]
-name = "Preswald Project"
-logo = "images/logo.png"
-favicon = "images/favicon.ico"
+name = "Job Dataset Project"
+logo = "images/images.png"
+favicon = "images/new_fav.ico"
 primaryColor = "#F89613"
 
 [data.sample_csv]
